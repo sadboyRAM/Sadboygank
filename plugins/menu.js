@@ -87,7 +87,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 
 ╭════•›「 Sosmed 」
 ╿ Github :
-╿ https://github.com/sadboyRam
+╿ https://github.com/sadboyRAM/Sadboygank
 ╿ Youtube : RAMA GANSS
 ╿ Instagram : @sadboy.genz
 ╰═══════════════
