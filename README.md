@@ -25,8 +25,8 @@ Simple WhatsApp Bot
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/Arya274/Arya-BOT3
-> cd Arya-BOT3
+> git clone https://github.com/sadboyRAM/Sadboygank
+> cd Sadboygank
 > npm install
 ```
 ###### Run
@@ -34,7 +34,7 @@ Simple WhatsApp Bot
 > node index.js
 ```
 
-# Recode: Drawl Nag
+# Recode: Х--ՏᎪᎠ
 Script: @Nurutomo
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
