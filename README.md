@@ -35,7 +35,7 @@ Simple WhatsApp Bot
 ```
 
 # Recode: Х--ՏᎪᎠ
-Script: @Nurutomo
+Script: @Sad
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
 
